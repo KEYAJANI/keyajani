@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karrar</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Fyay Flowers](https://github.com/KEYAJANI/fyay)
+- 🔭 I’m currently working on [Fyay Flowers](https://github.com/KEYAJANI/Fyay-Flowers)
 
 - 🌱 I’m currently learning **Python, MERN**
 
