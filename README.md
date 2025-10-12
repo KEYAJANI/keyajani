@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, MERN**
 
-- 👨‍💻 All of my projects are available at [https://esbeyajani.netlify.app/](https://esbeyajani.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://esbeyajani.netlify.app/](https://www.esbeyajani.dev/)]([https://esbeyajani.netlify.app/](https://www.esbeyajani.dev/))
 
 - 📫 How to reach me **esbeyajanikarrar@gmail.com**
 
